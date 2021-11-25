@@ -25,13 +25,13 @@ The item config file also does contain the settings required to:
 
 ## Additional mods supported
 
-* Vanilla (the base game)
-* EpicLoot
-* Terraheim
-* ChaosArmor
-* DoOrDieMonsters (all the items this mod includes)
-* Epic Valheim Additions
-* Sage Robes
+* Vanilla (the base game) -> supported version 0.205.5
+* EpicLoot -> supported version 0.8.7
+* Terraheim -> supported version 2.2.0
+* ChaosArmor -> supported version 7.1.0
+* DoOrDieMonsters (all the items this mod includes) -> supported version 0.4.1
+* Epic Valheim Additions -> supported version 1.2.7
+* Sage Robes -> deprecated, will be replaced soon
 
 ## Installation
 
@@ -50,6 +50,7 @@ Use item configuration yaml = On
 
 ## Changelog
 
+* 1.2.2 -> updated vanilla list to valheim version 0.205.5
 * 1.2.1 -> using the fixed version for game update on 25th Nov
 * 1.2.0 -> added more support to other new mods
 * 1.1.0 -> split the item configs into config per mod that added the items; starting to add support for other mods

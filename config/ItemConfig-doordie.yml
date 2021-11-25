@@ -1,6 +1,8 @@
 ## 
 ## Note: this file's content was created using VNEI
 ## 
+## compiled from mod version: 0.4.1
+## 
 groups:
   Material_DoOrDieMonsters:
     - InfusedGemstone_DoD

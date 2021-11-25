@@ -1,6 +1,8 @@
 ## 
 ## Note: this file's content was created using VNEI
 ## 
+## compiled from mod version: 0.8.7
+## 
 groups:
   Material_EpicLoot:
     - ShardMagic

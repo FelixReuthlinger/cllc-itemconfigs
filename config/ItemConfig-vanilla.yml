@@ -1,5 +1,7 @@
 ## 
 ## Note: this file's content was created using VNEI
+##
+## compiled from game version: 0.205.5
 ## 
 groups:
   Material:
@@ -70,6 +72,7 @@ groups:
     - QueenBee
     - RawMeat
     - Resin
+    - Root
     - RoundLog
     - Ruby
     - SerpentMeat
@@ -102,6 +105,7 @@ groups:
     - ArmorLeatherChest
     - ArmorPaddedCuirass
     - ArmorRagsChest
+    - ArmorRootChest
     - ArmorTrollLeatherChest
     - ArmorWolfChest
   Legs:
@@ -110,6 +114,7 @@ groups:
     - ArmorLeatherLegs
     - ArmorPaddedGreaves
     - ArmorRagsLegs
+    - ArmorRootLegs
     - ArmorTrollLeatherLegs
     - ArmorWolfLegs
   Ammo:
@@ -246,6 +251,7 @@ groups:
     - HelmetLeather
     - HelmetOdin
     - HelmetPadded
+    - HelmetRoot
     - HelmetTrollLeather
     - HelmetYule
   Shield:
@@ -262,6 +268,7 @@ groups:
   Torch:
     - Torch
   Trophie:
+    - TrophyAbomination
     - TrophyBlob
     - TrophyBoar
     - TrophyBonemass

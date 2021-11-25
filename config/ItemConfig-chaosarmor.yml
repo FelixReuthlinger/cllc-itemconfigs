@@ -1,6 +1,8 @@
 ## 
 ## Note: this file's content was created using VNEI
 ## 
+## compiled from mod version: 7.1.0
+## 
 groups:
   Chest_ChaosArmor:
     - T1ChaosPlateArmor
