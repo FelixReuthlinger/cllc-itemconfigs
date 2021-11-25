@@ -1,0 +1,45 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Chest_ChaosArmor:
+    - T1ChaosPlateArmor
+    - T2ChaosPlateArmor
+    - ChaosPlateArmorBody
+    - T1Deepus
+    - T2Deepus
+    - T3Deepus
+    - T4Deepus
+    - T5Deepus
+  Helmet_ChaosArmor:
+    - T1ChaosPlateHelm
+    - T2ChaosPlateHelm
+    - ChaosPlateHelm
+    - ChaosPlateHelmAlt
+    - T1Reepus
+    - T2Reepus
+    - T3Reepus
+    - T4Reepus
+    - T5Reepus
+  Legs_ChaosArmor:
+    - T1ChaosPlateLegs
+    - T2ChaosPlateLegs
+    - ChaosPlateLegs
+    - T1Delmeepus
+    - T2Delmeepus
+    - T3Delmeepus
+    - T4Delmeepus
+    - T5Delmeepus
+  ## extra groups, beyond the mod type groups
+  Equipment_ChaosArmor:
+    - Chest_ChaosArmor
+    - Helmet_ChaosArmor
+    - Legs_ChaosArmor
+  NoLossOnDeath_ChaosArmor:
+    - Equipment_ChaosArmor
+
+all:
+  weight factor: 0.7
+
+NoLossOnDeath_ChaosArmor:
+  loss: no

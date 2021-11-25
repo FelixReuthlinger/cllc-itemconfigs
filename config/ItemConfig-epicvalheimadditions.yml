@@ -1,0 +1,84 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Material_Epic_Valheims_Additions_by_Huntard:
+    - HeatedIronBar
+    - HeavymetalBar
+    - Heavyscale
+    - FrometalBar
+    - Drakescale
+    - FlametalBar
+    - Forgedscale
+    - PrimordialIce
+  None_Epic_Valheims_Additions_by_Huntard:
+    - WorldTreeFragment
+    - FenrirsHeart
+    - YmirsSoulEssence
+  Trophie_Epic_Valheims_Additions_by_Huntard:
+    - ErrorDrop
+    - CursedEffigy
+  Bow_Epic_Valheims_Additions_by_Huntard:
+    - BowFrometal
+    - BowFlametal
+    - BowHeavymetal
+  TwoHandedWeapon_Epic_Valheims_Additions_by_Huntard:
+    - AtgeirFrometal
+    - SledgeFrometal
+    - BattleaxeFrometal
+    - GreatSwordFrometal
+    - PickaxeFrometal
+    - AtgeirFlametal
+    - SledgeFlametal
+    - BattleaxeFlametal
+    - GreatSwordFlametal
+    - PickaxeFlametal
+    - AtgeirHeavymetal
+    - SledgeHeavymetal
+    - BattleaxeHeavymetal
+    - GreatSwordHeavymetal
+    - PickaxeHeavymetal
+  OneHandedWeapon_Epic_Valheims_Additions_by_Huntard:
+    - SpearFrometal
+    - KnifeFrometal
+    - MaceFrometal
+    - SwordFrometal
+    - AxeFrometal
+    - SpearFlametal
+    - KnifeFlametal
+    - MaceFlametal
+    - SwordFlametal
+    - AxeFlametal
+    - SpearHeavymetal
+    - KnifeHeavymetal
+    - MaceHeavymetal
+    - SwordHeavymetal
+    - AxeHeavymetal
+  Shield_Epic_Valheims_Additions_by_Huntard:
+    - ShieldFrometal
+    - ShieldFrometalTower
+    - ShieldFlametal
+    - ShieldFlametalTower
+    - ShieldHeavymetal
+    - ShieldHeavymetalTower
+  ## extra groups, beyond the mod type groups
+  Stackable_Epic_Valheims_Additions_by_Huntard:
+    - Material_Epic_Valheims_Additions_by_Huntard
+    - None_Epic_Valheims_Additions_by_Huntard
+    - Trophie_Epic_Valheims_Additions_by_Huntard
+  Equipment_Epic_Valheims_Additions_by_Huntard:
+    - Bow_Epic_Valheims_Additions_by_Huntard
+    - TwoHandedWeapon_Epic_Valheims_Additions_by_Huntard
+    - OneHandedWeapon_Epic_Valheims_Additions_by_Huntard
+    - Shield_Epic_Valheims_Additions_by_Huntard
+  NoLossOnDeath_Epic_Valheims_Additions_by_Huntard:
+    - Equipment_Epic_Valheims_Additions_by_Huntard
+
+all:
+  weight factor: 0.7
+
+Stackable_Epic_Valheims_Additions_by_Huntard:
+  stack factor: 2
+
+NoLossOnDeath_Epic_Valheims_Additions_by_Huntard:
+  loss: no

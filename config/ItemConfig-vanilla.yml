@@ -1,0 +1,360 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Material:
+    - Acorn
+    - Amber
+    - AmberPearl
+    - AncientSeed
+    - Barley
+    - BarleyFlour
+    - BarleyWineBase
+    - BeechSeeds
+    - BirchSeeds
+    - BlackMetal
+    - BlackMetalScrap
+    - Bloodbag
+    - BoneFragments
+    - BreadDough
+    - Bronze
+    - BronzeNails
+    - CarrotSeeds
+    - Chain
+    - Chitin
+    - Coal
+    - Coins
+    - Copper
+    - CopperOre
+    - Crystal
+    - Dandelion
+    - DeerHide
+    - DeerMeat
+    - DragonTear
+    - ElderBark
+    - Entrails
+    - Feathers
+    - FineWood
+    - FirCone
+    - FishRaw
+    - Flametal
+    - FlametalOre
+    - Flax
+    - Flint
+    - FreezeGland
+    - GreydwarfEye
+    - Guck
+    - HardAntler
+    - Iron
+    - IronNails
+    - IronOre
+    - IronScrap
+    - LeatherScraps
+    - LinenThread
+    - LoxMeat
+    - LoxPelt
+    - LoxPieUncooked
+    - MeadBaseFrostResist
+    - MeadBaseHealthMedium
+    - MeadBaseHealthMinor
+    - MeadBasePoisonResist
+    - MeadBaseStaminaMedium
+    - MeadBaseStaminaMinor
+    - MeadBaseTasty
+    - NeckTail
+    - Needle
+    - Obsidian
+    - OnionSeeds
+    - Ooze
+    - PineCone
+    - QueenBee
+    - RawMeat
+    - Resin
+    - RoundLog
+    - Ruby
+    - SerpentMeat
+    - SerpentScale
+    - SharpeningStone
+    - Silver
+    - SilverNecklace
+    - SilverOre
+    - Stone
+    - SurtlingCore
+    - Tar
+    - Thistle
+    - Thunderstone
+    - Tin
+    - TinOre
+    - TrollHide
+    - Turnip
+    - TurnipSeeds
+    - VegvisirShard_Bonemass
+    - WitheredBone
+    - WolfFang
+    - WolfMeat
+    - WolfPelt
+    - Wood
+    - YagluthDrop
+    - YmirRemains
+  Chest:
+    - ArmorBronzeChest
+    - ArmorIronChest
+    - ArmorLeatherChest
+    - ArmorPaddedCuirass
+    - ArmorRagsChest
+    - ArmorTrollLeatherChest
+    - ArmorWolfChest
+  Legs:
+    - ArmorBronzeLegs
+    - ArmorIronLegs
+    - ArmorLeatherLegs
+    - ArmorPaddedGreaves
+    - ArmorRagsLegs
+    - ArmorTrollLeatherLegs
+    - ArmorWolfLegs
+  Ammo:
+    - ArrowBronze
+    - ArrowFire
+    - ArrowFlint
+    - ArrowFrost
+    - ArrowIron
+    - ArrowNeedle
+    - ArrowObsidian
+    - ArrowPoison
+    - ArrowSilver
+    - ArrowWood
+    - FishingBait
+  TwoHandedWeapon:
+    - AtgeirBlackmetal
+    - AtgeirBronze
+    - AtgeirIron
+    - Battleaxe
+    - BattleaxeCrystal
+    - FishingRod
+    - PickaxeAntler
+    - PickaxeBronze
+    - PickaxeIron
+    - PickaxeStone
+    - SledgeCheat
+    - SledgeIron
+    - SledgeStagbreaker
+  OneHandedWeapon:
+    - AxeBlackMetal
+    - AxeBronze
+    - AxeFlint
+    - AxeIron
+    - AxeStone
+    - BombOoze
+    - Club
+    - KnifeBlackMetal
+    - KnifeButcher
+    - KnifeChitin
+    - KnifeCopper
+    - KnifeFlint
+    - KnifeSilver
+    - MaceBronze
+    - MaceIron
+    - MaceNeedle
+    - MaceSilver
+    - SpearBronze
+    - SpearChitin
+    - SpearElderbark
+    - SpearFlint
+    - SpearWolfFang
+    - SwordBlackmetal
+    - SwordBronze
+    - SwordCheat
+    - SwordIron
+    - SwordIronFire
+    - SwordSilver
+    - Tankard
+    - TankardOdin
+  Consumable:
+    - BarleyWine
+    - BlackSoup
+    - BloodPudding
+    - Blueberries
+    - BoarJerky
+    - Bread
+    - Carrot
+    - CarrotSoup
+    - Cloudberry
+    - CookedDeerMeat
+    - CookedLoxMeat
+    - CookedMeat
+    - CookedWolfMeat
+    - DeerStew
+    - Eyescream
+    - FishCooked
+    - FishWraps
+    - Honey
+    - LoxPie
+    - MeadFrostResist
+    - MeadHealthMedium
+    - MeadHealthMinor
+    - MeadPoisonResist
+    - MeadStaminaMedium
+    - MeadStaminaMinor
+    - MeadTasty
+    - MinceMeatSauce
+    - Mushroom
+    - MushroomBlue
+    - MushroomYellow
+    - NeckTailGrilled
+    - Onion
+    - OnionSoup
+    - Pukeberries
+    - QueensJam
+    - Raspberry
+    - Sausages
+    - SerpentMeatCooked
+    - SerpentStew
+    - ShocklateSmoothie
+    - TurnipStew
+    - WolfJerky
+    - WolfMeatSkewer
+  Utility:
+    - BeltStrength
+    - Wishbone
+  Bow:
+    - Bow
+    - BowDraugrFang
+    - BowFineWood
+    - BowHuntsman
+  Shoulder:
+    - CapeDeerHide
+    - CapeLinen
+    - CapeLox
+    - CapeOdin
+    - CapeTest
+    - CapeTrollHide
+    - CapeWolf
+  Misc:
+    - CryptKey
+    - DragonEgg
+    - GoblinTotem
+    - SaddleLox
+  Tool:
+    - Cultivator
+    - Hammer
+    - Hoe
+  Helmet:
+    - HelmetBronze
+    - HelmetDrake
+    - HelmetDverger
+    - HelmetIron
+    - HelmetLeather
+    - HelmetOdin
+    - HelmetPadded
+    - HelmetTrollLeather
+    - HelmetYule
+  Shield:
+    - ShieldBlackmetal
+    - ShieldBlackmetalTower
+    - ShieldBoneTower
+    - ShieldIronBuckler
+    - ShieldIronSquare
+    - ShieldIronTower
+    - ShieldKnight
+    - ShieldSerpentscale
+    - ShieldSilver
+    - ShieldWoodTower
+  Torch:
+    - Torch
+  Trophie:
+    - TrophyBlob
+    - TrophyBoar
+    - TrophyBonemass
+    - TrophyDeathsquito
+    - TrophyDeer
+    - TrophyDragonQueen
+    - TrophyDraugr
+    - TrophyDraugrElite
+    - TrophyDraugrFem
+    - TrophyEikthyr
+    - TrophyFenring
+    - TrophyForestTroll
+    - TrophyFrostTroll
+    - TrophyGoblin
+    - TrophyGoblinBrute
+    - TrophyGoblinKing
+    - TrophyGoblinShaman
+    - TrophyGreydwarf
+    - TrophyGreydwarfBrute
+    - TrophyGreydwarfShaman
+    - TrophyGrowth
+    - TrophyHatchling
+    - TrophyLeech
+    - TrophyLox
+    - TrophyNeck
+    - TrophySerpent
+    - TrophySGolem
+    - TrophySkeleton
+    - TrophySkeletonPoison
+    - TrophySurtling
+    - TrophyTheElder
+    - TrophyWolf
+    - TrophyWraith
+  ## extra groups, beyond the vanilla type groups
+  Metal:
+    - Copper
+    - Tin
+    - Silver
+    - Iron
+    - Flametal
+  Ore:
+    - CopperOre
+    - TinOre
+    - SilverOre
+    - IronOre
+    - FlametalOre
+  ProgressItem:
+    - AncientSeed
+    - CryptKey
+    - DragonEgg
+    - DragonTear
+    - GoblinTotem
+    - HardAntler
+    - Wishbone
+    - WitheredBone
+    - YagluthDrop
+  Stackable:
+    - Ammo
+    - Consumable
+    - Material
+    - Metal
+    - Ore
+    - Trophie
+  Equipment:
+    - Ammo
+    - Bow
+    - Chest
+    - Helmet
+    - Legs
+    - OneHandedWeapon
+    - TwoHandedWeapon
+    - Shield
+    - Shoulder
+    - Utility
+    - Tool
+    - Torch
+  NoLossOnDeath:
+    - Equipment
+    - Consumable
+    - ProgressItem
+  NoTeleportable:
+    - Ore
+    - Metal
+
+
+all:
+  weight factor: 0.7
+
+Stackable:
+  stack factor: 2
+
+NoTeleportable:
+  teleportable: no
+
+NoLossOnDeath:
+  loss: no

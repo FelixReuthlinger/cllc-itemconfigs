@@ -1,0 +1,220 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Material_Terraheim:
+    - SalamanderFurTH
+  Chest_Terraheim:
+    - NewGoblinArmorBronze
+    - ArmorBarbarianBronzeChestJD
+    - ArmorPlateIronChestJD
+    - ArmorDragonslayerChest
+    - ArmorBlackmetalgarbChest
+    - ArmorWandererChest
+    - ArmorMistlandsChest
+    - ArmorLeatherChestT1_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherChestT2_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherChestT3_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherChestT4_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherChestT5_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherChestT6_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorRagsChestT1_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsChestT2_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsChestT3_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsChestT4_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsChestT5_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsChestT6_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorTrollLeatherChestT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherChestT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherChestT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherChestT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherChestT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorBronzeChestT3_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeChestT4_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeChestT5_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeChestT6_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorIronChestT4_Terraheim_AddNewSets_AddIronArmor
+    - ArmorIronChestT5_Terraheim_AddNewSets_AddIronArmor
+    - ArmorIronChestT6_Terraheim_AddNewSets_AddIronArmor
+    - ArmorWolfChestT5_Terraheim_AddNewSets_AddSilverArmor
+    - ArmorWolfChestT6_Terraheim_AddNewSets_AddSilverArmor
+    - ArmorPaddedCuirassT6_Terraheim_AddNewSets_AddPaddedArmor
+    - ArmorBarbarianBronzeChestJDT3_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeChestJDT4_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeChestJDT5_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeChestJDT6_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorPlateIronChestJDT4_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronChestJDT5_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronChestJDT6_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorBlackmetalgarbChestT6_Terraheim_AddNewSets_AddNomadArmor
+  Helmet_Terraheim:
+    - NewGoblinHelmetBronze
+    - ArmorBarbarianBronzeHelmetJD
+    - ArmorPlateIronHelmetJD
+    - ArmorDragonslayerHelmet
+    - ArmorBlackmetalgarbHelmet
+    - ArmorWandererHelmet
+    - ArmorMistlandsHelmet
+    - HelmetLeatherT1_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetLeatherT2_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetLeatherT3_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetLeatherT4_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetLeatherT5_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetLeatherT6_Terraheim_AddNewSets_AddLeatherArmor
+    - HelmetTrollLeatherT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - HelmetTrollLeatherT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - HelmetTrollLeatherT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - HelmetTrollLeatherT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - HelmetTrollLeatherT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - HelmetBronzeT3_Terraheim_AddNewSets_AddBronzeArmor
+    - HelmetBronzeT4_Terraheim_AddNewSets_AddBronzeArmor
+    - HelmetBronzeT5_Terraheim_AddNewSets_AddBronzeArmor
+    - HelmetBronzeT6_Terraheim_AddNewSets_AddBronzeArmor
+    - HelmetIronT4_Terraheim_AddNewSets_AddIronArmor
+    - HelmetIronT5_Terraheim_AddNewSets_AddIronArmor
+    - HelmetIronT6_Terraheim_AddNewSets_AddIronArmor
+    - HelmetDrakeT5_Terraheim_AddNewSets_AddSilverArmor
+    - HelmetDrakeT6_Terraheim_AddNewSets_AddSilverArmor
+    - HelmetPaddedT6_Terraheim_AddNewSets_AddPaddedArmor
+    - ArmorBarbarianBronzeHelmetJDT3_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeHelmetJDT4_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeHelmetJDT5_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeHelmetJDT6_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorPlateIronHelmetJDT4_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronHelmetJDT5_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronHelmetJDT6_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorBlackmetalgarbHelmetT6_Terraheim_AddNewSets_AddNomadArmor
+  Leg_Terraheim:
+    - ArmorBarbarianBronzeLegsJD
+    - ArmorPlateIronLegsJD
+    - ArmorDragonslayerLegs
+    - ArmorBlackmetalgarbLegs
+    - ArmorWandererLegs
+    - ArmorMistlandsLegs
+    - LeatherLegsT1_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherLegsT2_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherLegsT3_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherLegsT4_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherLegsT5_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorLeatherLegsT6_Terraheim_AddNewSets_AddLeatherArmor
+    - ArmorRagsLegsT1_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsLegsT2_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsLegsT3_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsLegsT4_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsLegsT5_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorRagsLegsT6_Terraheim_AddNewSets_AddRagsArmor
+    - ArmorTrollLeatherLegsT2_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherLegsT3_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherLegsT4_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherLegsT5_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorTrollLeatherLegsT6_Terraheim_AddNewSets_AddTrollLeatherArmor
+    - ArmorBronzeLegsT3_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeLegsT4_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeLegsT5_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorBronzeLegsT6_Terraheim_AddNewSets_AddBronzeArmor
+    - ArmorIronLegsT4_Terraheim_AddNewSets_AddIronArmor
+    - ArmorIronLegsT5_Terraheim_AddNewSets_AddIronArmor
+    - ArmorIronLegsT6_Terraheim_AddNewSets_AddIronArmor
+    - ArmorWolfLegsT5_Terraheim_AddNewSets_AddSilverArmor
+    - ArmorWolfLegsT6_Terraheim_AddNewSets_AddSilverArmor
+    - ArmorPaddedGreavesT6_Terraheim_AddNewSets_AddPaddedArmor
+    - ArmorBarbarianBronzeLegsJDT3_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeLegsJDT4_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeLegsJDT5_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorBarbarianBronzeLegsJDT6_Terraheim_BarbarianArmor_AddNewSets
+    - ArmorPlateIronLegsJDT4_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronLegsJDT5_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorPlateIronLegsJDT6_Terraheim_AddNewSets_AddPlateArmor
+    - ArmorBlackmetalgarbLegsT6_Terraheim_AddNewSets_AddNomadArmor
+  Utility_Terraheim:
+    - HelmetWoodsman_Terraheim_AddCirculets_AddWoodsmanCirculet
+    - BeltMiner_Terraheim_AddCirculets_AddMinersCirculet
+    - BeltWaterproof_Terraheim_AddCirculets_AddWaterproofBelt
+    - BeltFarmer_Terraheim_AddCirculets_AddFarmerBelt
+    - BeltThief_Terraheim_AddCirculets_AddThiefBelt
+  Shoulder_Terraheim:
+    - ArmorBarbarianCapeJD
+    - ArmorWandererCape
+    - BackpackSimple
+    - CapeDeerHideT0TH
+    - CapeDeerHideT1TH
+    - CapeTrollHideT0TH
+    - CapeTrollHideT1TH
+    - CapeWolfT1TH
+    - CapeLoxT1TH
+    - CapeLinenT0TH
+    - CapeLinenT1TH
+  TwoHandedWeapon_TerraheimItems:
+    - SwordFolcbrand
+    - GreatswordIron
+    - GreatswordBlackmetal
+    - GreatswordChitinTH
+    - AtgeirSilver
+    - PickaxeBlackmetal
+    - BattleaxeBlackmetal
+    - BattleaxeBronzeTerraheim
+    - GreataxeBlackmetal
+    - BattleaxeSilver
+    - GreataxeFlintTH
+    - GreatswordFireTH
+    - AtgeirFireTH
+    - BattleaxeFireTH
+    - SledgeFireTH
+  OneHandedWeapon_TerraheimItems:
+    - AxeForstasca
+    - AxeSerpentTH
+    - KnifeIron
+    - KnifeSilverTH
+    - SpearBlackmetal
+    - MaceFireTH
+    - AxeFireTH
+    - KnifeFireTH
+    - SpearFireTH
+    - ThrowingAxeFire
+    - SwordFireTH
+    - BombFire
+    - BombFrost
+    - BombLightning
+    - ThrowingAxeFlint
+    - ThrowingAxeBronze
+    - ThrowingAxeIron
+    - ThrowingAxeSilver
+    - ThrowingAxeBlackmetal
+  Shield_TerraheimItems:
+    - ShieldSilverDagger
+    - ShieldFireTH
+    - ShieldFireTowerTH
+  Bow_TerraheimItems:
+    - BowBlackmetalTH
+    - BowFireTH
+  Ammo_TerraheimItems:
+    - ArrowGreatFireTH
+  Torch_TerraheimItems:
+    - TorchOlympia
+  ## extra groups, beyond the mod type groups
+  Stackable_Terraheim:
+    - Material_Terraheim
+    - Ammo_TerraheimItems
+  Equipment_Terraheim:
+    - Chest_Terraheim
+    - Helmet_Terraheim
+    - Leg_Terraheim
+    - Utility_Terraheim
+    - Shoulder_Terraheim
+    - TwoHandedWeapon_TerraheimItems
+    - OneHandedWeapon_TerraheimItems
+    - Shield_TerraheimItems
+    - Bow_TerraheimItems
+    - Ammo_TerraheimItems
+    - Torch_TerraheimItems
+  NoLossOnDeath_Terraheim:
+    - Equipment_Terraheim
+
+all:
+  weight factor: 0.7
+
+Stackable_Terraheim:
+  stack factor: 2
+
+NoLossOnDeath_Terraheim:
+  loss: no

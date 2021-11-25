@@ -1,0 +1,39 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Chest_SageRobes:
+    - SageRobeBlack
+    - SageRobeBlue
+    - SageRobeBrown
+    - SageRobeGray
+    - SageRobeGreen
+    - SageRobeRed
+    - SageRobeWhite
+    - SageTunicBlack
+    - SageTunicBlue
+    - SageTunicBrown
+    - SageTunicGray
+    - SageTunicGreen
+    - SageTunicRed
+    - SageTunicWhite
+  Helmet_SageRobes:
+    - SageHoodBlack
+    - SageHoodBlue
+    - SageHoodBrown
+    - SageHoodGray
+    - SageHoodGreen
+    - SageHoodRed
+    - SageHoodWhite
+  ## extra groups, beyond the mod type groups
+  Equipment_SageRobes:
+    - Chest_SageRobes
+    - Helmet_SageRobes
+  NoLossOnDeath_SageRobes:
+    - Equipment_SageRobes
+
+all:
+  weight factor: 0.7
+
+NoLossOnDeath_SageRobes:
+  loss: no

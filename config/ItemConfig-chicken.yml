@@ -1,0 +1,19 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Material_chicken:
+    - raw_egg
+  Consumable_chicken:
+    - cooked_chicken
+    - fried_egg
+    - boiled_egg
+  NoLossOnDeath_chicken:
+    - Consumable_chicken
+
+
+all:
+  weight factor: 0.7
+
+NoLossOnDeath_chicken:
+  loss: no

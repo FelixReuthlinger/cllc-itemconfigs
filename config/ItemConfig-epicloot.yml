@@ -1,0 +1,45 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+groups:
+  Material_EpicLoot:
+    - ShardMagic
+    - ShardRare
+    - ShardEpic
+    - ShardLegendary
+    - DustMagic
+    - DustRare
+    - DustEpic
+    - DustLegendary
+    - ReagentMagic
+    - ReagentRare
+    - ReagentEpic
+    - ReagentLegendary
+    - EssenceMagic
+    - EssenceRare
+    - EssenceEpic
+    - EssenceLegendary
+    - RunestoneMagic
+    - RunestoneRare
+    - RunestoneEpic
+    - RunestoneLegendary
+  Utility_EpicLoot:
+    - LeatherBelt
+    - SilverRing
+    - GoldRubyRing
+  Stackables_EpicLoot:
+    - Material_EpicLoot
+  Equipment_EpicLoot:
+    - Utility_EpicLoot
+  NoLossOnDeath_EpicLoot:
+    - Equipment_EpicLoot
+
+
+all:
+  weight factor: 0.7
+
+Stackables_EpicLoot:
+  stack factor: 5
+
+NoLossOnDeath_EpicLoot:
+  loss: no
