@@ -5,6 +5,15 @@ This mod contains a set of ItemConfig*.yml files that can be used with
 The config contains all new items for Heart and Home, groups them into more detailed groups. 
 Also for some other mods I created item lists for some specific versions.
 
+## How to create such item configs
+
+I was using [VNEI](https://valheim.thunderstore.io/package/MSchmoecker/VNEI/) mod, where I 
+especially added a new feature to export the indexed items into a CLLC like YAML file.
+Using VNEI you don't need to do all the tedious steps of manually editing the item names
+(which btw might be localized and by that using displayed names won't work sufficiently),
+the mod can create a list of all maybe relevant items, but some things you might want to 
+manually still delete, like create attacks (mostly having item type of a one-handed weapon).
+
 ## Additional features
 
 The item config file also does contain the settings required to:
@@ -45,3 +54,8 @@ Use item configuration yaml = On
 * 1.2.0 -> added more support to other new mods
 * 1.1.0 -> split the item configs into config per mod that added the items; starting to add support for other mods
 * 1.0.0 -> first version
+
+## Contact
+
+* https://github.com/FelixReuthlinger/cllc-itemconfigs
+* Discord: Flux#0062 (you can find me around some of the Valheim modding discords, too)
