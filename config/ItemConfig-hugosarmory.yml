@@ -1,0 +1,36 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+## compiled from mod version: 5.0.1
+## 
+groups:
+  TwoHandedWeapon_HugosArmory:
+    - BronzeFistsHTD
+    - IronFistsHTD
+    - DeerFistsHTD
+    - SilverGreatSwordHTD
+    - IronGreatSwordHTD
+    - SilverBattleaxeHTD
+    - SilverGreatMaceHTD
+    - CoreGreatMaceHTD
+    - CoreGreatMaceGreenHTD
+    - CoreGreatMaceBlueHTD
+    - BoneGreatMaceHTD
+    - BlackMetalGreatSwordHTD
+    - BlackMetalGreatSwordAltHTD
+    - ObsidianGreatSwordHTD
+    - ObsidianGreatSwordRedHTD
+    - FlametalGreatSwordHTD
+    - IronHeavyGreatSwordHTD
+    - BlackMetalBattleaxeHTD
+    - DragonSlayerSwordHTD
+    - BoneGreatSwordHTD
+  ## extra groups, beyond the mod type groups
+  NoLossOnDeath_HugosArmory:
+    - TwoHandedWeapon_HugosArmory
+
+all:
+  weight factor: 0.7
+
+NoLossOnDeath_HugosArmory:
+  loss: no

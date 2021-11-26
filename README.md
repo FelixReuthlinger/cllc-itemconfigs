@@ -32,6 +32,7 @@ The item config file also does contain the settings required to:
 * DoOrDieMonsters (all the items this mod includes) -> supported version 0.4.1
 * Epic Valheim Additions -> supported version 1.2.7
 * Sage Robes -> deprecated, will be replaced soon
+* Hugo's Armory -> supported version 5.0.1
 
 ## Other recommended mods
 
@@ -71,6 +72,7 @@ Use item configuration yaml = On
 
 ## Changelog
 
+* 1.2.3 -> added Hugo's Armory items
 * 1.2.2 -> updated vanilla list to valheim version 0.205.5
 * 1.2.1 -> using the fixed version for game update on 25th Nov
 * 1.2.0 -> added more support to other new mods
