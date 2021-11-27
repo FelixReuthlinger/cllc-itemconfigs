@@ -72,6 +72,7 @@ Use item configuration yaml = On
 
 ## Changelog
 
+* 1.2.4 -> decreased dod kit's weight, was too much imho; updated dod to version 0.4.2
 * 1.2.3 -> added Hugo's Armory items
 * 1.2.2 -> updated vanilla list to valheim version 0.205.5
 * 1.2.1 -> using the fixed version for game update on 25th Nov

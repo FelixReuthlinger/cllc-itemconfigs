@@ -1,9 +1,17 @@
 ## 
 ## Note: this file's content was created using VNEI
 ## 
-## compiled from mod version: 0.4.1
+## compiled from mod version: 0.4.2
 ## 
 groups:
+  Consumable_DoOrDieMonsters:
+    - CarnivorBait_DoD
+    - Apple_DoD
+    - Cherries_DoD
+    - Banana_DoD
+    - Walnuts_DoD
+    - BlueMushroom_DoD
+    - PurpleMushroom_DoD
   Material_DoOrDieMonsters:
     - InfusedGemstone_DoD
     - DeathKnightItem_DoD
@@ -55,6 +63,16 @@ groups:
     - ExcellentWeaponKit_DoD
     - ExceptionalWeaponKit_DoD
     - ExtraordinaryWeaponKit_DoD
+  Bow_DoOrDieMonsters:
+    - Bow_FrozenBones_DoD
+    - Bow_SkelR_DoD
+    - Bow_SkelG_DoD
+    - Bow_Charred_DoD
+    - Bow_DeepNorth_DoD
+    - Bow_Plains_DoD
+    - Bow_Mountain_DoD
+    - Bow_Swamp_DoD
+    - Bow_BlackForest_DoD
   TwoHandedWeapon_DoOrDieMonsters:
     - MonkMace_DoD
     - BerserkerAxe_DoD
@@ -67,6 +85,9 @@ groups:
     - PaladinMace_DoD
     - RogueSword_DoD
     - DeathknightAxe_DoD
+    - Mace_DeepNorth_DoD
+    - Mace_Mistlands_DoD
+    - Wand_Mountain_DoD
     - SwordFlametal1_DoD
     - SwordFlametal2_DoD
     - SwordFelmetal1_DoD
@@ -76,10 +97,33 @@ groups:
     - SwordFrometal1_DoD
     - SwordFrometal3_DoD
     - SwordSpirit_DoD
+    - Sword_AshLands_DoD
+    - Sword_DeepNorth_DoD
+    - Sword_Plains_DoD
+    - Sword_Swamp_DoD
+    - Sword_Meadows_DoD
+  Shield_DoOrDieMonsters:
+    - BrokenShieldBhygshan_DoD
+    - BrokenShieldEikthyr_DoD
+    - BrokenShieldRambore_DoD
+    - BrokenShieldElder_DoD
+    - BrokenShieldBitterstump_DoD
+    - BrokenShieldBonemass_DoD
+    - BrokenShieldModer_DoD
+    - BrokenShieldFarkas_DoD
+    - BrokenShieldSkir_DoD
+    - BrokenShieldYagluth_DoD
+    - ShieldYagluth_DoD
+    - ShieldSkir_DoD
+    - ShieldModer_DoD
+    - ShieldBonemass_DoD
+    - ShieldBitterstump_DoD
+    - ShieldElder_DoD
+    - ShieldRambore_DoD
   Trophie_DoOrDieMonsters:
     - TrophyCharredRemains_DoD
     - TrophyFrozenBones_DoD
-    - TrophySurtling_DoD
+    - TrophyGreatSurtling_DoD
     - TrophySkeletonG_DoD
     - TrophySkeletonR_DoD
     - TrophyFrostling_DoD
@@ -102,6 +146,23 @@ groups:
     - TrophyPoisonDrake_DoD
     - TrophyDarkDrake_DoD
   ## extra groups, beyond the mod type groups
+  Weaponkits_DoOrDieMonsters:
+    - CrudeArmorKit_DoD
+    - BasicArmorKit_DoD
+    - GoodArmorKit_DoD
+    - GreatArmorKit_DoD
+    - SuperiorArmorKit_DoD
+    - ExcellentArmorKit_DoD
+    - ExceptionalArmorKit_DoD
+    - ExtraordinaryArmorKit_DoD
+    - CrudeWeaponKit_DoD
+    - BasicWeaponKit_DoD
+    - GoodWeaponKit_DoD
+    - GreatWeaponKit_DoD
+    - SuperiorWeaponKit_DoD
+    - ExcellentWeaponKit_DoD
+    - ExceptionalWeaponKit_DoD
+    - ExtraordinaryWeaponKit_DoD
   Metal_DoOrDieMonsters:
     - SteelBar_DoD
     - FrometalBar_DoD
@@ -123,6 +184,10 @@ groups:
 
 all:
   weight factor: 0.7
+  
+Weaponkits_DoOrDieMonsters:
+  # those are way to heavy imho
+  weight factor: 0.2
 
 Stackable_DoOrDieMonsters:
   stack factor: 2
