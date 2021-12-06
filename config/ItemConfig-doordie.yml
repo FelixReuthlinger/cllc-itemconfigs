@@ -1,7 +1,7 @@
 ## 
 ## Note: this file's content was created using VNEI
 ## 
-## compiled from mod version: 0.4.2
+## compiled from mod version: 0.4.4
 ## 
 groups:
   Consumable_DoOrDieMonsters:
@@ -13,6 +13,7 @@ groups:
     - BlueMushroom_DoD
     - PurpleMushroom_DoD
   Material_DoOrDieMonsters:
+    - SkullToken_DoD
     - InfusedGemstone_DoD
     - DeathKnightItem_DoD
     - ArcherItem_DoD
@@ -173,11 +174,13 @@ groups:
   Stackable_DoOrDieMonsters:
     - Material_DoOrDieMonsters
     - Trophie_DoOrDieMonsters
+    - Consumable_DoOrDieMonsters
   Equipment_DoOrDieMonsters:
     - OneHandedWeapon_DoOrDieMonsters
     - TwoHandedWeapon_DoOrDieMonsters
   NoLossOnDeath_DoOrDieMonsters:
     - Equipment_DoOrDieMonsters
+    - Consumable_DoOrDieMonsters
   NoTeleportable_DoOrDieMonsters:
     - Metal_DoOrDieMonsters
     - Ore_DoOrDieMonsters

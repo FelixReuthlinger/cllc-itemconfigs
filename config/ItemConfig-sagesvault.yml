@@ -1,0 +1,72 @@
+## 
+## Note: this file's content was created using VNEI
+## 
+## compiled from mod version: 1.1.2
+## 
+groups:
+  Chest_SagesVault:
+    - SageRobeBlack
+    - SageRobeBlue
+    - SageRobeBrown
+    - SageRobeGray
+    - SageRobeGreen
+    - SageRobeRed
+    - SageRobeWhite
+    - SageTunicBlack
+    - SageTunicBlue
+    - SageTunicBrown
+    - SageTunicGray
+    - SageTunicGreen
+    - SageTunicRed
+    - SageTunicWhite
+  Helmet_SagesVault:
+    - SageHoodBlack
+    - SageHoodBlue
+    - SageHoodBrown
+    - SageHoodGray
+    - SageHoodGreen
+    - SageHoodRed
+    - SageHoodWhite
+    - SageCrownGold01
+    - SageCrownGold02
+    - SageCrownGold03
+    - SageCrownSilver01
+    - SageCrownSilver02
+    - SageCrownSilver03
+    - SageCrownObsidian01
+    - SageCrownObsidian02
+    - SageCrownObsidian03
+    - HeadElf
+  Legs_SagesVault:
+    - SagePants
+  Shield_SagesVault:
+    - SageBook01
+    - SageBook02
+    - SageBook03
+    - SageBook04
+  OneHandedWeapon_SagesVault:
+    - NeedleBlade
+    - DeathBlade
+  Torch_SagesVault:
+    - ScholarFireStaff
+    - SageFireStaff
+    - SageHolyStaff
+    - SageIceStaff
+    - SageLightningStaff
+    - SageDarkStaff
+  ## extra groups, beyond the mod type groups
+  Equipment_SagesVault:
+    - Chest_SageRobes
+    - Helmet_SageRobes
+    - Legs_SagesVault
+    - Shield_SagesVault
+    - OneHandedWeapon_SagesVault
+    - Torch_SagesVault
+  NoLossOnDeath_SagesVault:
+    - Equipment_SagesVault
+
+all:
+  weight factor: 0.7
+
+NoLossOnDeath_SagesVault:
+  loss: no

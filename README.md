@@ -29,10 +29,10 @@ The item config file also does contain the settings required to:
 * EpicLoot -> supported version 0.8.7
 * Terraheim -> supported version 2.2.0
 * ChaosArmor -> supported version 7.1.0
-* DoOrDieMonsters (all the items this mod includes) -> supported version 0.4.1
+* DoOrDieMonsters (all the items this mod includes) -> supported version 0.4.4
 * Epic Valheim Additions -> supported version 1.2.7
-* Sage Robes -> deprecated, will be replaced soon
 * Hugo's Armory -> supported version 5.0.1
+* SagesVault -> supported version 1.1.2
 
 ## Other recommended mods
 
@@ -72,6 +72,10 @@ Use item configuration yaml = On
 
 ## Changelog
 
+* 1.2.5 
+  * replaced SageRobes with newer SagesVault 1.1.2
+  * updated to DoD 0.4.4
+  * fixed the forgotten consumables of DoD to be added to no loss and stackable groups
 * 1.2.4 -> decreased dod kit's weight, was too much imho; updated dod to version 0.4.2
 * 1.2.3 -> added Hugo's Armory items
 * 1.2.2 -> updated vanilla list to valheim version 0.205.5
