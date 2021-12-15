@@ -1,10 +1,11 @@
 {
 	"name": "CreatureLeveLAndLootControl_itemconfig",
 	"description": "Item configs for CLLC mod with item lists for various other mods that introduce new items to the game, check Readme for installation and features",
-	"version_number": "1.2.5",
+	"version_number": "1.2.6",
 	"website_url": "https://github.com/FelixReuthlinger/cllc-itemconfigs",
 	"dependencies": [
 		"Smoothbrain-CreatureLevelAndLootControl-4.4.5",
+		"FixItFelix-CreatureLeveLAndLootControl_fix-1.0.0",
 		"denikson-BepInExPack_Valheim-5.4.1601"
 	]
 }
