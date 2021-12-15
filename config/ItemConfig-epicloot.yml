@@ -45,3 +45,6 @@ Stackables_EpicLoot:
 
 NoLossOnDeath_EpicLoot:
   loss: no
+
+Utility_EpicLoot:
+  pickup: yes

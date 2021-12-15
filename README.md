@@ -69,6 +69,7 @@ Use item configuration yaml = On
 
 ## Changelog
 
+* 1.2.7 -> switched pickup for EpicLoot utility items on
 * 1.2.6 -> added utility mod that fixes some CLLC bug, since it would possibly always load the default YAML files from
   plugins folders, too
 * 1.2.5
